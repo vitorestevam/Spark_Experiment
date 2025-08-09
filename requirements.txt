@@ -1,0 +1,6 @@
+findspark
+pandas
+numpy
+pyspark
+pyspark[pandas_on_spark]
+setuptools
